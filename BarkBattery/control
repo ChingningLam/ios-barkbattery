@@ -1,0 +1,9 @@
+Package: com.example.barkbattery
+Name: BarkBattery
+Version: 0.1.0
+Architecture: iphoneos-arm
+Description: Send a Bark push notification when the battery is low
+Maintainer: Example <example@example.com>
+Author: Example <example@example.com>
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader
